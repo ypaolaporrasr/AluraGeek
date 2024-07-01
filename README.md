@@ -25,10 +25,10 @@ Feito totalmente com HTML/CSS e estou adicionando o Javascript.
 
 ### Links
 
-- Solution URL: [Solution here](https://paolassilveira.github.io/AluraGeek/)
+- Solution URL: [Solution here](https://github.com/ypaolaporras)
 
 ## Author
 
-- Website - [paola Souza](https://paolassilveira.github.io/paolaSouza)
-- GitHub - [@paolasSilveira](https://github.com/paolasSilveira)
+- Website - [Paola Porras]((https://github.com/ypaolaporras)
+- GitHub - [@Paola Porras]([https://github.com/paolasSilveira](https://github.com/ypaolaporras))
 # AluraGeek
